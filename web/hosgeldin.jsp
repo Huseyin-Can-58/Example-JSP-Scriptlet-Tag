@@ -16,6 +16,6 @@
     %>
 
     <body>
-        Hoşgeldiniz, < out.println(user); > !
+        Hoşgeldiniz, <% out.println(user); %> !
     </body>
 </html>
